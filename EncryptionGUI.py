@@ -1,6 +1,6 @@
 from tkinter import *
 
-from EncryptionGUI.Encryptor import Encryptor
+from Encryptor import Encryptor
 
 
 class Application(Frame):
